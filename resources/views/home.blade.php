@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<h1>Hellow Version 2</h1>
+<h1>Hellow Version 3</h1>
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
